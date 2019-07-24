@@ -9,12 +9,12 @@ author:     Olivia Liu
 catalog:    true
 tags:        
 
-​    - SSL
-​    - TLS
-​    - keyless
-​    - OpenSSL
-​    - handshake
-​    - protocol
+    - SSL
+        - TLS
+        - keyless
+        - OpenSSL
+        - handshake
+        - protocol
 
 Update:
 ---
@@ -27,7 +27,7 @@ Update:
 
 
 
-![KeylessRSA](img/post_img/keylessRSA.PNG)
+![KeylessRSA](../img/post_img/keylessRSA.PNG)
 
 
 
@@ -37,7 +37,7 @@ Update:
 
 
 
-![KeylessDH](img/post_img/keylessDH.PNG)
+![KeylessDH](../img/post_img/keylessDH.PNG)
 
 
 
