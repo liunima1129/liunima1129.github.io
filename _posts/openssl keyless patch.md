@@ -1,17 +1,16 @@
-# OpenSSL Keyless 补丁
+# OpenSSL Keyless patch
 
-```
-Title: OpenSSL Keyless 补丁
-CreateTime: 2019-07-05
-Author: 刘雨菡 <shixi_yuhan17>
-Description: OpenSSL Keyless
-
-Update:
-```
-
-\-\-\-
-
-<!\-\- toc -->
+---
+layout: post
+title: OpenSSL Keyless patch
+subtitle: OpenSSl keyless 补丁
+date: 2019-07-05
+author: Olivia Liu
+catalog: true
+tags:
+    - OpenSSL 
+    - keyless
+---
 
 OpenSSL的源码是将私钥的加解密计算和签名等操作直接在NGINX本地进行，因此如果使用Keyless把这些操作放在key server上进行，则需要对原本的OpenSSL代码进行修改。
 
