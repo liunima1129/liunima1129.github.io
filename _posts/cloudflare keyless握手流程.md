@@ -8,15 +8,12 @@ date:         2019-06-10
 author:     Olivia Liu
 catalog:    true
 tags:        
-
     - SSL
-        - TLS
-        - keyless
-        - OpenSSL
-        - handshake
-        - protocol
-
-Update:
+    - TLS
+    - keyless
+    - OpenSSL
+    - handshake
+    - protocol
 ---
 
 ## 握手流程
