@@ -4,7 +4,7 @@ title:      OpenSSL Shell File Introduction
 subtitle:   OpenSSL Shell文件代码介绍
 date:       2019-06-13
 author:     Olivia Liu
-header-img: img/post_img/openssl_shell_header_1.jpg
+header-img: img/post_img/header-wall-dark.jpg
 catalog: true
 tags:
     - keyless
