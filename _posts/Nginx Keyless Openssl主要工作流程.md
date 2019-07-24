@@ -1,20 +1,20 @@
-\# Nginx openssl keyless patch main workflow
+# Nginx openssl keyless patch main workflow
 
-```
-Title: Nginx openssl keyless patch main workflow
-Create Time: 2019-07-16
-Author: 刘雨菡 <shixi_yuhan17>
-Description: keyless openssl nginx
+---
+layout: post
+title: Nginx OpenSSL keyless patch main workflow
+subtitle: Nginx中使用的 OpenSSL包的 keyless补丁文件 
+date: 2019-07-16
+author: Olivia Liu 
+catalog: true
+tags:
+    - keyless 
+    - OpenSSL 
+    - nginx
+---
 
-Update:
-```
+![keylessPatch1](../img/post_img/keylessPatch1.PNG)
 
-\-\-\-\-
+![keylessPatch2](../img/post_img/keylessPatch2.PNG)
 
-<!-- toc -->
-
-!\[keylessPatch1](../assets/images/keylessPatch1.PNG)
-
-!\[keylessPatch2](../assets/images/keylessPatch2.PNG)
-
-!\[keylessPatch3](../assets/images/keylessPatch3.PNG)
+![keylessPatch3](../img/post_img/keylessPatch3.PNG)
