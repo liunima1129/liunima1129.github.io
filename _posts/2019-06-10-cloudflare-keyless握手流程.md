@@ -4,7 +4,7 @@ title:      Cloudflare Keyless SSL Protocol handshake workflow
 subtitle:   Cloudflare keyless SSL协议握手流程
 date:       2019-06-10
 author:     Olivia Liu
-header-img: img/post_img/illustration-keyless-ssl.png
+header-img: img/post_img/dark-blue-high-tech-background-header.jpg
 catalog: true
 tags:
     - SSL
