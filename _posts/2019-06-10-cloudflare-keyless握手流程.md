@@ -23,7 +23,7 @@ tags:
 
 
 
-![KeylessRSA](../img/post_img/keylessRSA.PNG)
+![KeylessRSA](https://raw.githubusercontent.com/liunima1129/liunima1129.github.io/master/img/post_img/keylessRSA.png)
 
 
 
@@ -33,7 +33,7 @@ tags:
 
 
 
-![KeylessDH](../img/post_img/keylessDH.PNG)
+![KeylessDH](https://raw.githubusercontent.com/liunima1129/liunima1129.github.io/master/img/post_img/keylessDH.png)
 
 
 
