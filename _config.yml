@@ -62,14 +62,14 @@ kramdown:
 disqus_username: olivia_liu1129
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 131b79d3e9ae75875511                            #生成的clientID
-  clientSecret: 7edd9a75fa8e84f27f2cd77bf3f97c4e40f1e4d0    #生成的clientSecret
-  repo: liunima1129.github.io    #仓库名称
-  owner: liunima1129    #github用户名
-  admin: liunima1129
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+#gitalk:
+#  enable: true    #是否开启Gitalk评论
+#  clientID: 131b79d3e9ae75875511                            #生成的clientID
+#  clientSecret: 7edd9a75fa8e84f27f2cd77bf3f97c4e40f1e4d0    #生成的clientSecret
+#  repo: liunima1129.github.io    #仓库名称
+ # owner: liunima1129    #github用户名
+#  admin: liunima1129
+ # distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
