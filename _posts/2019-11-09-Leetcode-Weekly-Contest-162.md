@@ -20,19 +20,19 @@ Total 4 questions:
 
 **[Cells with Odd Values in a Matrix]( https://leetcode.com/contest/weekly-contest-162/problems/cells-with-odd-values-in-a-matrix/ )**
 
-![162_1](img/post_img/contests_img/162_1.png)
+![162_1](https://raw.githubusercontent.com/liunima1129/liunima1129.github.io/master/img/post_img/contests_img/162_1.png)
 
 **[Reconstruct a 2-Row Binary Matrix]( https://leetcode.com/contest/weekly-contest-162/problems/reconstruct-a-2-row-binary-matrix/ )**
 
-![162_2](img/post_img/contests_img/162_2.png)
+![162_2](https://raw.githubusercontent.com/liunima1129/liunima1129.github.io/master/img/post_img/contests_img/162_2.png)
 
 **[Number of Closed Islands]( https://leetcode.com/contest/weekly-contest-162/problems/number-of-closed-islands/ )**
 
-![162_3](img/post_img/contests_img/162_3.png)
+![162_3](https://raw.githubusercontent.com/liunima1129/liunima1129.github.io/master/img/post_img/contests_img/162_3.png)
 
 **[Maximum Score Words Formed by Letters]( https://leetcode.com/contest/weekly-contest-162/problems/maximum-score-words-formed-by-letters/ )**
 
-![162_4](img/post_img/contests_img/162_4.png)
+![162_4](https://raw.githubusercontent.com/liunima1129/liunima1129.github.io/master/img/post_img/contests_img/162_4.png)
 
 ## Answer
 
