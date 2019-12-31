@@ -13,12 +13,12 @@ github_repo: "https://github.com/liunima1129/liunima1129.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Hello world to all glorious developers"
-sidebar-avatar: /img/header.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/patrick-tomasso-1NTFSnV-KLs-unsplash.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
-RSS: false
+RSS: true
 # weibo_username:   
 # zhihu_username:     
 github_username:    liunima1129
